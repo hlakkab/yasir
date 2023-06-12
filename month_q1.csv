@@ -1,0 +1,61 @@
+title,tags,view_count,answer_count,similar_titles_count
+"Error status code 400 when trying to delete a RevenueCat customer with REST, what could be the problem?","['swift', 'rest', 'session', 'urlsession', 'revenuecat']",31,1,4631
+The problem while updating Eclipse Maven project An internal error occurred during: &quot;Updating Maven Project&quot;,"['java', 'maven']",88,1,2178
+Swing Widgets Do Not Repaint After Unlocking Computer,"['java', 'swing', 'user-interface', 'desktop']",78,0,154
+Slow get operations with spring webflux + mongoDB,"['spring', 'mongodb', 'spring-webflux']",42,2,1361
+java.lang.ClassNotFoundException: org.apache.camel.impl.transformer.TransformerKey,"['java', 'maven', 'apache-camel']",24,0,473
+Running Apereo CAS on win 10,"['java', 'single-sign-on', 'cas', 'apereo']",30,1,74
+I get a problem in Android RecyclerView getAdapterPosition(),"['java', 'android', 'android-recyclerview']",61,3,1815
+mysql-connector-j vs mysql-connector-java maven dependency differences,"['java', 'maven', 'mysql-connector']",86,1,1061
+Derby foreign key,"['java', 'database', 'netbeans', 'derby']",23,1,438
+Gradle Could not find org.codehaus.groovy:groovy:4.0.12,"['gradle', 'groovy', 'spock']",73,1,432
+Deploy Spring Boot Application on AWS EC2 Windows Server,"['amazon-web-services', 'spring-boot', 'amazon-ec2', 'windows-server']",64,0,1928
+AutoSize height for rows In Apache.Poi 3.15,"['java', 'excel', 'apache-poi']",42,0,1473
+LMAX disruptor busy spin vs ConcurrentLinkedQueue,"['java', 'concurrency', 'java-threads', 'disruptor-pattern']",93,0,2
+Cannot resolve symbol &#39;WebSecurityConfigurerAdapter&#39;,"['spring-boot', 'maven', 'spring-security', 'jwt']",36,0,272
+Alternate for NTLMAuthorizationHandler,"['java', 'class', 'authentication', 'kerberos', 'ntlm']",13,0,2068
+Why doesn&#39;t batch run in kotlin springBoot?,"['spring', 'spring-boot', 'kotlin', 'spring-batch', 'batch-processing']",24,1,981
+Tika Docx Scanning for 2 MB file (Pure text docx file) taking more than 30 seconds,"['java', 'apache-poi', 'docx', 'apache-tika', 'tika-server']",33,0,950
+Loopback 4: How to abort aa request,"['api', 'rest', 'fetch', 'loopback', 'loopback4']",16,0,977
+setImageResource don&#39;t load image,"['java', 'android-recyclerview']",16,0,174
+Dart&#39;s DateTime and Java&#39;s LocalDateTime handshake,"['java', 'spring', 'flutter', 'spring-boot', 'dart']",75,0,1377
+Django ApiTestCase Leak,"['django', 'rest', 'testing']",82,1,169
+@DeleteMapping spring boot,"['java', 'html', 'spring-boot', 'model-view-controller', 'thymeleaf']",71,1,123
+My App crashes when pyjunius collects Java classes,"['python', 'java', 'android', 'kivymd', 'pyjnius']",23,0,436
+RoboElectric NoClassDefFoundError: org/conscrypt/OpenSSLProvider,"['android', 'unit-testing', 'junit']",15,0,93
+Message broker wont broadcast messages,"['java', 'websocket', 'stomp']",21,1,56
+JavaFX GridPane fixed row size,"['java', 'javafx', 'row', 'gridpane']",52,1,154
+Window title font too big,"['java', 'swing', 'windows-10', 'citrix']",67,2,12
+Why is Process.getInputStream omitting spaces? [Java 20],"['java', 'process', 'inputstream', 'processbuilder']",24,1,31
+No server chosen,"['spring-boot', 'aws-documentdb']",11,0,102
+Test ByteBuddy Interceptor,"['junit', 'byte-buddy']",24,1,8
+I can&#39;t inherit from jpanel,"['java', 'swing', 'jpanel', 'extends']",69,0,215
+"error in build.gradle 3: only buildscript {}, pluginManagement {} and other plugins {} script blocks are allowed before plugins {} blocks, no other","['kotlin', 'gradle', 'groovy', 'plugins']",28,0,800
+WebSocket Secured by Token using Micronaut,"['java', 'http', 'websocket', 'micronaut']",13,0,744
+Use SpEL in JpaRepository Query Hint,"['spring', 'spring-boot', 'spring-data-jpa', 'spring-data']",21,0,1036
+WildFly Cluster MarshallableUserObject,"['java', 'wildfly', 'load-balancing', 'infinispan']",17,0,0
+Unexpected PSQLException using `returning`,"['java', 'jooq']",23,1,5
+NFC Emulate card witout root,"['java', 'android', 'emulation', 'nfc', 'card']",982,1,2
+Stop inside lambda,['java'],56,1,4
+Flutter Can&#39;t Find javaHome,"['java', 'flutter', 'path']",73,1,0
+UnionFind datastructure,"['java', 'algorithm', 'data-structures', 'graph']",32,0,0
+Strange ConcurrentHashMap behaviour,"['java', 'thread-safety', 'concurrenthashmap']",31,1,26
+Print Log4j2 output into JTextArea,"['java', 'swing', 'log4j', 'log4j2']",34,1,451
+Spring Boot swagger-ui.html 404,"['java', 'spring', 'spring-boot', 'swagger', 'swagger-ui']",73,1,35
+Jackson dataformat csv NoSuchMethodError createContentReference,"['java', 'jackson', 'jackson-dataformat-csv']",30,1,49
+Run Time Error or Compile Time error FileNotFoundException,"['java', 'intellij-idea', 'makefile', 'filenotfoundexception']",27,1,78
+OpenTelemetry Java Agent Not Receiving Arguments from SBT Build,"['java', 'scala', 'sbt', 'open-telemetry', 'javaagents']",57,0,48
+Overlapping song sounds on my music player,"['java', 'android', 'mobile']",21,0,72
+ListView Listener,"['java', 'listview', 'javafx', 'listener']",39,0,0
+Shortest Path DFS,"['java', 'algorithm', 'graph-theory', 'depth-first-search']",69,1,0
+TableView Editable Cell,"['java', 'javafx']",48,0,125
+Jwts.parserBuilder is blocking,"['spring-security', 'jwt', 'reactive-programming', 'jjwt']",50,1,137
+Get field of fetched entity,"['hibernate', 'jpa', 'spring-data-jpa']",18,1,428
+JsonValidationShema SpringBoot HandlerInterceptor,"['json', 'spring-boot', 'kotlin', 'validation', 'handler']",21,0,0
+"Spring Boot: Only Postman “GET” requests allowed when using Spring Boot but not “POST”, “PUT” or “DELETE”; they yield an “401 Unauthorized” error","['java', 'spring-boot', 'spring-security', 'authorization']",102,1,2
+ThreadMXBean.getCurrentThreadAllocatedBytes Java 8 alternative?,"['java', 'garbage-collection']",23,1,22
+springbatch flow ScopeNotActiveException,"['java', 'spring', 'spring-batch']",23,0,1
+Schedule Lambda from another Lambda,"['java', 'aws-lambda', 'aws-lambda-layers', 'aws-lambda-containers']",54,2,0
+Sonar Skipping Method,"['java', 'spring-boot', 'sonarqube']",13,0,35
+jpackage FileSystemException,"['java', 'macos', 'jpackage']",27,1,0
+NoSuchElementException on .nextInt();,"['java', 'java.util.scanner', 'nosuchelementexception']",42,0,19
